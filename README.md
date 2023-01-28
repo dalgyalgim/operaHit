@@ -6,7 +6,7 @@ Download Opera Hit today!
 
 A visual creative coding app created using openFrameworks. 
 
-Offers touch support allowing users to interact with musical notes and cycle between two different modes: Blitz Mode & Pull Mode
+Offers touch support allowing users to interact with musical notes and cycle between two different modes: **Blitz Mode & Pull Mode**
 
 ## Blitz Mode:
 
